@@ -1,1 +1,1 @@
-s is a low level programming assignment
+ script that compiles a C file but does not link
