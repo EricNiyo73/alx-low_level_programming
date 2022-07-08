@@ -18,6 +18,7 @@ _putchar(',');
 _putchar(' ');
 }
 if (res >= 10)
+{
 _putchar((res / 10) + '0');
 _putchar((res % 10) + '0');
 }
