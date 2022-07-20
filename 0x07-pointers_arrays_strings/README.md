@@ -4,4 +4,6 @@ Write a function that copies memory area
 
 Write a function that locates a character in a string.
 
-Write a function that searches a string for any of a set of bytes.
+Write a function that searches a string for any of a set of bytes
+
+Write a function that locates a substring.
