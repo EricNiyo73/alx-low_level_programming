@@ -13,4 +13,6 @@ Write a function that prints the chessboard.
 file 8.Write a function that prints the sum of the two diagonals of a square matrix of integers
 
 file 3. Write a function that gets the length of a prefix substring.
+
+file 9  Write a function that sets the value of a pointer to a char.
 .
