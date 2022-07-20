@@ -10,4 +10,7 @@ Write a function that locates a substring.
 
 Write a function that prints the chessboard.
 
-file 8.Write a function that prints the sum of the two diagonals of a square matrix of integers.
+file 8.Write a function that prints the sum of the two diagonals of a square matrix of integers
+
+file 3. Write a function that gets the length of a prefix substring.
+.
