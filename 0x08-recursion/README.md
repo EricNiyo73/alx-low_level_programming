@@ -7,4 +7,5 @@ file 2. Write a function that returns the length of a stringand use Prototype: i
 
 file 3: Write a function that returns the factorial of a given number,use Prototype: int factorial(int n); and If n is lower than 0, the function should return -1 to indicate an error.
 
+file 4: Write a function that returns the value of x raised to the power of y,and use prototype called int _pow_recursion(int x, int y); and If y is lower than 0, the function should return -1
 
