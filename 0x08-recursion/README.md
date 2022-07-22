@@ -10,3 +10,6 @@ file 3: Write a function that returns the factorial of a given number,use Protot
 file 4: Write a function that returns the value of x raised to the power of y,and use prototype called int _pow_recursion(int x, int y); and If y is lower than 0, the function should return -1
 
 file 5: Write a function that returns the natural square root of a number ,Prototype: int _sqrt_recursion(int n); and "If n does not have a natural square root, the function should return -1"
+
+file 6 : Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
+Prototype: int is_prime_number(int n) 
