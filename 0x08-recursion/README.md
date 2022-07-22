@@ -1,7 +1,10 @@
-File 1: Write a function that prints a string, followed by a new line.
+File 0: Write a function that prints a string, followed by a new line.
 Prototype: void _puts_recursion(char *s);
 
-File 2: Write a function that prints a string in reverse and with Prototype: void _print_rev_recursion(char *s);
+File 1: Write a function that prints a string in reverse and with Prototype: void _print_rev_recursion(char *s);
 
-file 3. Write a function that returns the length of a stringand use Prototype: int _strlen_recursion(char *s);
+file 2. Write a function that returns the length of a stringand use Prototype: int _strlen_recursion(char *s);
+
+file 3: Write a function that returns the factorial of a given number,use Prototype: int factorial(int n); and If n is lower than 0, the function should return -1 to indicate an error.
+
 
