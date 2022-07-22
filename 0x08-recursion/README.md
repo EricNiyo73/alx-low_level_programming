@@ -12,4 +12,7 @@ file 4: Write a function that returns the value of x raised to the power of y,an
 file 5: Write a function that returns the natural square root of a number ,Prototype: int _sqrt_recursion(int n); and "If n does not have a natural square root, the function should return -1"
 
 file 6 : Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
-Prototype: int is_prime_number(int n) 
+Prototype: int is_prime_number(int n)
+
+file 7. Write a function that returns 1 if a string is a palindrome and 0 if not 0.Prototype: int is_palindrome(char *s); and An empty string is a palindrome
+ 
